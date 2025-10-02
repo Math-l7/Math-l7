@@ -14,7 +14,8 @@ Java · Spring Boot · MySQL · Hibernate · JWT · Git · Maven · JUnit · Moc
 
 ## 📌 Projetos em Destaque
 - **E-commerce API** – API REST com autenticação JWT, controle de usuários, produtos e pedidos, desenvolvida em Java + Spring Boot.  
-- **Auth API** – API de autenticação com **JWT**, permitindo cadastro, login, gerenciamento de usuários e controle de permissões. 
+- **Auth API** – API de autenticação com JWT, permitindo cadastro, login, gerenciamento de usuários e controle de permissões.  
+- **Project Management API** – API REST para gerenciamento de usuários, projetos e tarefas, com mensagens e notificações em tempo real via **WebSocket e SSE**, autenticação JWT e roles. Destaca evolução em **segurança e lógica de negócio**.
 
 ---
 
