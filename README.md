@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus Luiz
 
 💻 Desenvolvedor Back-End, focado em **Java + Spring Boot**  
-🚀 Autodidata, já desenvolvendo projetos práticos como **APIs REST com autenticação JWT e controle de usuários, produtos e pedidos**  
+🚀 Desenvolvendo projetos práticos como **APIs REST com autenticação JWT e controle de usuários, produtos e pedidos**  
 🧪 Experiência com **testes unitários (JUnit & Mockito)** para garantir qualidade de código  
 🎯 Em busca da **minha primeira oportunidade profissional na área de tecnologia**, com início da faculdade previsto para 2026  
 
