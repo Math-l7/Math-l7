@@ -1,63 +1,73 @@
-👋 **Olá, Eu Sou o Matheus Luiz**
+## 👋 OLÁ, EU SOU O MATHEUS LUIZ
 
 💻 **Desenvolvedor Back-End**, focado em **Java + Spring Boot**  
 🚀 Criando projetos profissionais com **APIs REST**, **JWT**, **microsserviços**, comunicação em tempo real e arquitetura escalável.  
-🔐 Forte interesse em **boas práticas de segurança**, **Docker / DevOps** e padrões de projeto.  
-🎯 Em busca da **primeira oportunidade profissional** na área de tecnologia (faculdade prevista para 2026).
+🔐 Forte interesse em **segurança**, **Docker/DevOps** e padrões modernos de backend.  
+🎯 Faculdade confirmada para primeiro semestre de 2026.
 
 ---
 
 ## 🔧 Tecnologias e Habilidades
 
 ### Back-end
-- Java · Spring Boot · Spring Security · JPA / Hibernate  
-- JWT · Swagger / OpenAPI · Maven  
+- Java · Spring Boot · Spring Security  
+- JPA / Hibernate  
+- JWT · Swagger / OpenAPI  
+- Maven  
 - JUnit · Mockito  
 - WebSocket · SSE
 
 ### Docker & DevOps
-- Docker · Dockerfile · Docker Compose  
-- Multi-stage builds (imagens leves e otimizadas)  
-- Database-per-service (microsserviços isolados)  
-- Ambientes replicáveis  
-- Redes Docker, volumes e práticas seguras
+- Docker · Docker Compose  
+- Dockerfile com multi-stage builds  
+- Database-per-service (arquitetura de microsserviços)  
+- Redes, volumes e ambientes isolados  
+- Boas práticas de deploy
 
 ### Boas Práticas & Segurança
-- Hash seguro (BCrypt)  
-- Roles e autorização avançada  
-- Validação global com Exception Handler  
-- Clean Architecture, DTOs e camadas separadas  
-- Versionamento Git profissional
+- BCrypt para hash seguro  
+- Autorização baseada em Roles  
+- Exception Handler global  
+- DTOs, validação e arquitetura em camadas  
+- Git + GitHub (fluxo profissional)
 
 ---
 
 ## 📌 Projetos em Destaque
 
 ### 🐦 Twitter Clone – Microsserviços
-Arquitetura distribuída com **7 microsserviços** usando Spring Cloud:
+Arquitetura realista com **7 microsserviços** usando Spring Cloud:
 - Eureka (Service Discovery)  
-- API Gateway  
-- Auth Service (JWT)  
-- User Service e Tweet Service com Feign Client  
-- Notificações em tempo real (WebSocket & SSE)  
-- Database-per-service  
-- Orquestração via **Docker Compose**
-
-Demonstra domínio de arquitetura moderna e escalável.
+- API Gateway + JWT Filter  
+- Auth Service  
+- User Service  
+- Tweet Service  
+- Notification Service (SSE)  
+- DM Service (WebSocket)  
+- Toda a orquestração via **Docker Compose**
 
 ---
 
 ### 🛒 E-commerce API
-API REST com autenticação JWT, controle de usuários, produtos e pedidos.  
-Aplicando boas práticas de segurança e testes.
+API REST completa com:
+- Autenticação JWT  
+- Controle de usuários, produtos e pedidos  
+- Boas práticas de validação, DTOs e segurança
+
+---
+
+### 🔐 Auth API (JWT)
+- Cadastro, login e refresh token  
+- Perfis, permissões e roles  
+- Pronto para ser integrado em qualquer aplicação
 
 ---
 
 ### 📁 Project Management API
-Sistema completo com:
-- WebSocket + SSE  
-- Autenticação JWT e roles  
-- Camadas bem estruturadas e lógica robusta  
+- WebSocket + SSE para mensagens e notificações  
+- Autenticação JWT  
+- Projetos, tarefas, usuários e chat  
+- Arquitetura limpa e escalável
 
 ---
 
