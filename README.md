@@ -60,5 +60,5 @@ Sistema distribuído para análise de crédito utilizando Spring Cloud, RabbitMQ
 
 # 📫 Contato
 
-* LinkedIn: Matheus Luiz
+* LinkedIn: [https://www.linkedin.com/in/matheus-luiz-05a3a237b/?skipRedirect=true]
 * Email: [mathluizl7@gmail.com](mailto:mathluizl7@gmail.com)
