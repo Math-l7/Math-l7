@@ -1,38 +1,64 @@
-## 👋 OLÁ, EU SOU O MATHEUS LUIZ
+# 👋 Olá, eu sou o Matheus Luiz
 
-💻 **Desenvolvedor Back-End**, focado em **Java + Spring Boot**  
-🚀 Criando projetos profissionais com **APIs REST**, **JWT**, **microsserviços**, comunicação em tempo real e arquitetura escalável.  
-🔐 Forte interesse em **segurança**, **Docker/DevOps** e padrões modernos de backend.  
-🎯 Faculdade confirmada para primeiro semestre de 2026.
+Desenvolvedor Backend com foco em Java, sistemas distribuídos e APIs escaláveis.
 
----
+Atualmente atuo na MSystems, trabalhando com suporte técnico e desenvolvimento de software, contribuindo na análise de falhas em produção, estabilidade do sistema e desenvolvimento de funcionalidades utilizando Java, Angular e .NET.
 
-## 🔧 Tecnologias e Habilidades
+Desenvolvo aplicações utilizando Java 17+, Spring Boot e Spring Cloud, com foco em:
 
-### Back-end
-- Java · Spring Boot · Spring Security  
-- JPA / Hibernate  
-- JWT · Swagger / OpenAPI  
-- Maven  
-- JUnit · Mockito  
-- WebSocket · SSE
-
-### Docker & DevOps
-- Docker · Docker Compose  
-- Dockerfile com multi-stage builds  
-- Database-per-service (arquitetura de microsserviços)  
-- Redes, volumes e ambientes isolados  
-- Boas práticas de deploy
-
-### Boas Práticas & Segurança
-- BCrypt para hash seguro  
-- Autorização baseada em Roles  
-- Exception Handler global  
-- DTOs, validação e arquitetura em camadas  
-- Git + GitHub (fluxo profissional)
+* APIs REST
+* Arquitetura de microsserviços
+* Comunicação assíncrona com RabbitMQ
+* Autenticação e autorização com JWT/OAuth2
+* Docker e deploy em cloud
+* PostgreSQL e modelagem de dados
+* Testes automatizados com JUnit e Mockito
 
 ---
 
-## 📫 Contato
-- **LinkedIn:** Matheus Luiz  
-- **Email:** mathluizl7@gmail.com
+# 🚀 Principais Tecnologias
+
+## Backend
+
+* Java 17+
+* Spring Boot
+* Spring Security
+* Spring Cloud
+* Hibernate / JPA
+* APIs REST
+* OpenFeign
+* RabbitMQ
+
+## Infraestrutura & Cloud
+
+* Docker
+* Docker Multi-stage Builds
+* AWS EC2 / RDS
+* PostgreSQL
+
+## Testes & Arquitetura
+
+* JUnit 5
+* Mockito
+* Arquitetura em Camadas
+* Princípios SOLID
+* Strategy Pattern
+
+---
+
+# 📌 Projetos em Destaque
+
+### Scheduling API
+
+Plataforma de agendamentos para clínicas e barbearias com autenticação JWT, Strategy Pattern, proteção contra IDOR e deploy em AWS.
+
+### Banking Credit Analysis Microservices
+
+Sistema distribuído para análise de crédito utilizando Spring Cloud, RabbitMQ, Keycloak e arquitetura baseada em microsserviços.
+
+---
+
+# 📫 Contato
+
+* LinkedIn: Matheus Luiz
+* Email: [mathluizl7@gmail.com](mailto:mathluizl7@gmail.com)
